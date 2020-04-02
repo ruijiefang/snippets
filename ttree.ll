@@ -1,7 +1,7 @@
 ;; ttree.ll - Tournament tree structure for
 ;; <O(n log n), O(log n)>- Range Maximum Query (RMQ) in LLVM IR
 ;; -----------------------------------------------------------------
-;; Author: Ruijie Fang and Kexin Jin (ruijief@, kexinj@)
+;; Author: Ruijie Fang 
 ;;
 ;; ruijief:
 ;; SYNOPSIS:
